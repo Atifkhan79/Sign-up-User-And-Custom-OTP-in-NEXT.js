@@ -1,0 +1,5 @@
+npm i mongoose 
+npm i zod 
+npm i resend
+npm i react-email
+npm i bcryptjs
